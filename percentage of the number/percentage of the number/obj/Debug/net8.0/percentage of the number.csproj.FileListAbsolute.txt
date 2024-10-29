@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\bin\Debug\net8.0\percentage of the number.exe
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\bin\Debug\net8.0\percentage of the number.deps.json
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\bin\Debug\net8.0\percentage of the number.runtimeconfig.json
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\bin\Debug\net8.0\percentage of the number.dll
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\bin\Debug\net8.0\percentage of the number.pdb
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.dll
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\refint\percentage of the number.dll
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.pdb
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\percentage of the number.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\percentage of the number\percentage of the number\obj\Debug\net8.0\ref\percentage of the number.dll

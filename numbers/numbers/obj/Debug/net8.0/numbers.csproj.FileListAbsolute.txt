@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\numbers\numbers\bin\Debug\net8.0\numbers.exe
+C:\Users\SSoni\Desktop\numbers\numbers\bin\Debug\net8.0\numbers.deps.json
+C:\Users\SSoni\Desktop\numbers\numbers\bin\Debug\net8.0\numbers.runtimeconfig.json
+C:\Users\SSoni\Desktop\numbers\numbers\bin\Debug\net8.0\numbers.dll
+C:\Users\SSoni\Desktop\numbers\numbers\bin\Debug\net8.0\numbers.pdb
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.dll
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\refint\numbers.dll
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.pdb
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\numbers.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\numbers\numbers\obj\Debug\net8.0\ref\numbers.dll
