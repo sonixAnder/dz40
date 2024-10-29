@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\temperature\temperature\bin\Debug\net8.0\temperature.exe
+C:\Users\SSoni\Desktop\temperature\temperature\bin\Debug\net8.0\temperature.deps.json
+C:\Users\SSoni\Desktop\temperature\temperature\bin\Debug\net8.0\temperature.runtimeconfig.json
+C:\Users\SSoni\Desktop\temperature\temperature\bin\Debug\net8.0\temperature.dll
+C:\Users\SSoni\Desktop\temperature\temperature\bin\Debug\net8.0\temperature.pdb
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.dll
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\refint\temperature.dll
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.pdb
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\temperature.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\temperature\temperature\obj\Debug\net8.0\ref\temperature.dll

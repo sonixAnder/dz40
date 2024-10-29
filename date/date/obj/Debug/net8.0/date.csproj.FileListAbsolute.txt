@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\date\date\bin\Debug\net8.0\date.exe
+C:\Users\SSoni\Desktop\date\date\bin\Debug\net8.0\date.deps.json
+C:\Users\SSoni\Desktop\date\date\bin\Debug\net8.0\date.runtimeconfig.json
+C:\Users\SSoni\Desktop\date\date\bin\Debug\net8.0\date.dll
+C:\Users\SSoni\Desktop\date\date\bin\Debug\net8.0\date.pdb
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.dll
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\refint\date.dll
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.pdb
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\date.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\date\date\obj\Debug\net8.0\ref\date.dll
